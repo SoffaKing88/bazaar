@@ -1,3 +1,5 @@
+/*Nick Soffa*/
+
 var Boxes = {
     /**
      * Constant for the left mouse button.
